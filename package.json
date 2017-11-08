@@ -1,6 +1,6 @@
 {
   "name": "zzyzx-import",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Require files in a specified directory",
   "main": "index.js",
   "keywords": [

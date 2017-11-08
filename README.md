@@ -1,3 +1,3 @@
-### require-all
+### zzyzx-import
 
-Useful tool for requiering Gulp tasks in a separate directory
+Useful tool for importing Gulp tasks in a separate directory
